@@ -4,10 +4,10 @@
   "main": "index.js",
   "author": "victoriasyluma",
   "license": "MIT",
-  "dependencies": {
-    "lite-server": "^2.6.1"
-  },
   "scripts": {
     "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
   }
 }
